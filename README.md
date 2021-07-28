@@ -1,1 +1,1 @@
-This repo is for building my very own printf function.
+The code snippets for my printf function.
