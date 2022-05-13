@@ -4,7 +4,7 @@
 .B _printf\fR \- formatted output conversion
 
 .SH SYNOPSIS
-.B #include \fB"holberton.h"
+.B #include \fB"main.h"
 
 .B int printf(const char *\fIformat\fB, ...);
 
